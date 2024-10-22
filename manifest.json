@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-transcription",
+  "name": "Obsidian Transcription",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Real-time audio transcription for Obsidian notes",
+  "author": "Nehme Tohme",
+  "authorUrl": "https://github.com/nehmetohme/obsidian-transcription",
+  "isDesktopOnly": true
+}
